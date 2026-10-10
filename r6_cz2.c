@@ -12,6 +12,7 @@ void zad6(void);
 void zad7(void);
 void zad8(void);
 
+
 int main(void)
 
 {
